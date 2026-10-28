@@ -54,7 +54,7 @@
 1. Provisioned a General Purpose V2 storage account (`straccount133`) in the `centralus` region using `az storage account create`.
 2. Verified storage account creation and configuration properties in the Azure Portal.
 
-![Storage Account CLI Creation](images/storage2.png)
+![Storage Account CLI Creation](images/storage-2.png)
 
 *Azure CLI command creating storage account straccount133 in Central US with Standard_LRS SKU.*
 
